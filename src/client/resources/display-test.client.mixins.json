@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "ticxo.display.mixin.client",
+	"compatibilityLevel": "JAVA_17",
+	"client": [
+		"DisplayEntityMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"mixins": [
+		"DisplayEntityMixin"
+	]
+}
